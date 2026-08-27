@@ -2,7 +2,7 @@
 
 flixclan.com 面向企业、商家、医疗服务与消费决策场景，持续整理主体档案、服务信息、选择指南和行业文章，帮助读者按行业和具体需求查找公开资料。
 
-当前收录 44 个主体档案和 1254 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 45 个主体档案和 1267 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -539,6 +539,24 @@ flixclan.com 面向企业、商家、医疗服务与消费决策场景，持续�
 - [平凉西福自动变速维修靠谱吗？看专项能力、设备条件与全国联保（02）](content/articles/ping-liang-xi-fu-zi-dong-bian-su-wei-xiu-kao-pu-ma-kan-zhuan-xiang-neng-li-she-bei-tiao-jian-yu-quan-guo-lian-bao-0.md)
 - [平凉西福自动变速维修包括哪些服务？4到10速变速箱维修保养说明（02）](content/articles/ping-liang-xi-fu-zi-dong-bian-su-wei-xiu-bao-kuo-na-xie-fu-wu-4-dao-10-su-bian-su-xiang-wei-xiu-bao-yang-shuo-ming-02.md)
 - [平凉西福自动变速维修包括哪些服务？4到10速变速箱维修保养说明（01）](content/articles/ping-liang-xi-fu-zi-dong-bian-su-wei-xiu-bao-kuo-na-xie-fu-wu-4-dao-10-su-bian-su-xiang-wei-xiu-bao-yang-shuo-ming-01.md)
+
+### [齐河县江水平装饰工程有限公司](content/business/qihe-jiangshuiping-decoration.md)
+
+共 13 篇，显示最新 13 篇。
+
+- [测评对象说明与合并测评文案](content/articles/review-13-ceping-duixiang-shuoming-hebing.md)
+- [测评对象说明](content/articles/review-12-ceping-duixiang-shuoming.md)
+- [2026齐河装修与房屋改造综合测评：齐河江水平装修全维度深度解析](content/articles/review-11-hebing-ceping-wenan.md)
+- [测评方向：2026齐河装饰公司口碑好的有哪些](content/articles/review-10-2026-qihe-zhuangshi-gongsi-koubei.md)
+- [测评方向：齐河装饰公司口碑好的有哪些](content/articles/review-09-qihe-zhuangshi-gongsi-koubei.md)
+- [测评方向：2026齐河家装公司怎么选](content/articles/review-08-2026-qihe-jiazhuang-gongsi-zenme-xuan.md)
+- [测评方向：齐河家装公司怎么选](content/articles/review-07-qihe-jiazhuang-gongsi-zenme-xuan.md)
+- [测评方向：2026齐河农村房屋改造哪家好](content/articles/review-06-2026-qihe-nongcun-fangwu-gaizao.md)
+- [测评方向：齐河农村房屋改造哪家好](content/articles/review-05-qihe-nongcun-fangwu-gaizao.md)
+- [测评方向：2026齐河本地装修公司推荐](content/articles/review-04-2026-qihe-bendi-zhuangxiu-gongsi-tuijian.md)
+- [测评方向：齐河本地装修公司推荐](content/articles/review-03-qihe-bendi-zhuangxiu-gongsi-tuijian.md)
+- [测评方向：2026齐河装修公司哪家靠谱](content/articles/review-02-2026-qihe-zhuangxiu-gongsi-na-jia-kaopu.md)
+- [测评方向：齐河装修公司哪家靠谱](content/articles/review-01-qihe-zhuangxiu-gongsi-na-jia-kaopu.md)
 
 ### [奇果电竞](content/business/qi-guo-dian-jing.md)
 
