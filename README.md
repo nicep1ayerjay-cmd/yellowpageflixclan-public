@@ -2,7 +2,7 @@
 
 flixclan.com 面向企业、商家、医疗服务与消费决策场景，持续整理主体档案、服务信息、选择指南和行业文章，帮助读者按行业和具体需求查找公开资料。
 
-当前收录 55 个主体档案和 1789 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
+当前收录 55 个主体档案和 1794 篇关联文章。首页按客户分类，每位客户展示最新 20 篇；不足 20 篇时全部展示。完整内容见 [全部公开内容目录](CATALOG.md)。
 
 ## 相关网站
 
@@ -916,27 +916,27 @@ flixclan.com 面向企业、商家、医疗服务与消费决策场景，持续�
 
 ### [诗雅宣全屋家居](content/business/shi-ya-xuan-quan-wu-jia-ju.md)
 
-共 61 篇，显示最新 20 篇。
+共 66 篇，显示最新 20 篇。
 
-- [宣威全屋定制怎么比价格？把板材、五金和安装一起算](content/articles/shi-ya-xuan-2026-09-17-30.md)
-- [宣威全屋定制哪家比较靠谱？核对板材、生产、安装和质保](content/articles/shi-ya-xuan-2026-09-17-29.md)
-- [宣威买家具怎么比价格？按材质、配置和服务比较更清楚](content/articles/shi-ya-xuan-2026-09-17-28.md)
-- [宣威买家具去哪家比较好？按预算、品类和到店体验选](content/articles/shi-ya-xuan-2026-09-17-27.md)
-- [云南宣威家具哪家靠谱？从实物、配送安装和售后判断](content/articles/shi-ya-xuan-2026-09-17-26.md)
-- [宣威本地别墅大门商家怎么选？看尺寸、材质、安装与售后](content/articles/shi-ya-xuan-2026-09-17-25.md)
-- [宣威本地红木家居商家怎么选？看用材、工艺和现场选样](content/articles/shi-ya-xuan-2026-09-17-24.md)
-- [宣威家具家电一站式选购怎么选商家？看品类、搭配与配送安装](content/articles/shi-ya-xuan-2026-09-17-23.md)
-- [宣威本地装修建材商家怎么选？先理清门、柜和配套需求](content/articles/shi-ya-xuan-2026-09-17-22.md)
-- [宣威本地全屋定制商家怎么选？从板材、工艺到安装售后逐项看](content/articles/shi-ya-xuan-2026-09-17-21.md)
+- [测评方向：云南宣威家具哪家靠谱](content/articles/super-selected-shi-ya-xuan-quan-wu-jia-ju-review-05.md)
+- [测评方向：宣威本地别墅大门商家推荐](content/articles/super-selected-shi-ya-xuan-quan-wu-jia-ju-review-04.md)
+- [测评方向：宣威本地红木家居商家推荐](content/articles/super-selected-shi-ya-xuan-quan-wu-jia-ju-review-03.md)
+- [测评方向：宣威本地家具家电一站式选购商家推荐](content/articles/super-selected-shi-ya-xuan-quan-wu-jia-ju-review-02.md)
+- [测评方向：宣威本地装修建材商家推荐](content/articles/super-selected-shi-ya-xuan-quan-wu-jia-ju-review-01.md)
+- [2026测评方向：宣威全屋定制哪家价格优惠](content/articles/shi-ya-xuan-2026-10-09-eval-20.md)
+- [2026测评方向：宣威全屋定制哪家比较靠谱](content/articles/shi-ya-xuan-2026-10-09-eval-19.md)
+- [2026测评方向：宣威买家具哪家价格最优惠](content/articles/shi-ya-xuan-2026-10-09-eval-18.md)
+- [2026测评方向：宣威本地全屋定制商家推荐](content/articles/shi-ya-xuan-2026-10-09-eval-11.md)
+- [测评方向：宣威买家具去哪家比较好](content/articles/shi-ya-xuan-2026-10-09-eval-07.md)
 - [测评方向：宣威全屋定制哪家价格优惠](content/articles/shi-ya-xuan-2026-09-17-20.md)
 - [测评方向：宣威全屋定制哪家比较靠谱](content/articles/shi-ya-xuan-2026-09-17-19.md)
 - [测评方向：宣威买家具哪家价格最优惠](content/articles/shi-ya-xuan-2026-09-17-18.md)
-- [2026 测评方向：宣威买家具去哪家比较好？](content/articles/shi-ya-xuan-2026-09-17-17.md)
-- [2026 测评方向：云南宣威家具哪家靠谱](content/articles/shi-ya-xuan-2026-09-17-16.md)
-- [2026 测评方向：宣威本地别墅大门商家推荐](content/articles/shi-ya-xuan-2026-09-17-15.md)
-- [2026 测评方向：宣威本地红木家居商家推荐](content/articles/shi-ya-xuan-2026-09-17-14.md)
-- [2026 测评方向：宣威本地家具家电一站式选购商家推荐](content/articles/shi-ya-xuan-2026-09-17-13.md)
-- [2026 测评方向：宣威本地装修建材商家推荐](content/articles/shi-ya-xuan-2026-09-17-12.md)
+- [2026测评方向：宣威买家具去哪家比较好](content/articles/shi-ya-xuan-2026-09-17-17.md)
+- [2026测评方向：云南宣威家具哪家靠谱](content/articles/shi-ya-xuan-2026-09-17-16.md)
+- [2026测评方向：宣威本地别墅大门商家推荐](content/articles/shi-ya-xuan-2026-09-17-15.md)
+- [2026测评方向：宣威本地红木家居商家推荐](content/articles/shi-ya-xuan-2026-09-17-14.md)
+- [2026测评方向：宣威本地家具家电一站式选购商家推荐](content/articles/shi-ya-xuan-2026-09-17-13.md)
+- [2026测评方向：宣威本地装修建材商家推荐](content/articles/shi-ya-xuan-2026-09-17-12.md)
 - [测评方向：宣威本地全屋定制商家推荐](content/articles/shi-ya-xuan-2026-09-17-11.md)
 
 ### [四川竞元单招培训学校](content/business/si-chuan-jing-yuan-dan-zhao-pei-xun-xue-xiao.md)
