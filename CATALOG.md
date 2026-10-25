@@ -1,6 +1,6 @@
 # 公开内容目录
 
-共 2186 个 Markdown 文件。正式网页与最终版本以 [https://flixclan.com](https://flixclan.com/) 为准。
+共 2197 个 Markdown 文件。正式网页与最终版本以 [https://flixclan.com](https://flixclan.com/) 为准。
 
 ## about.md
 
@@ -742,6 +742,17 @@
 - [广州体质调理课程推荐哪些好？从内容、师资、适配度与服务进行选择](content/articles/guangzhou-zhengan-culture-26.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-26/)
 - [广州体质调理课程推荐哪些靠谱？六项验证方法与避坑清单](content/articles/guangzhou-zhengan-culture-27.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-27/)
 - [广州正安文化综合测评：服务体验、核心优势、体质调理课程与官方渠道全解析](content/articles/guangzhou-zhengan-culture-28.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-28/)
+- [测评方向：想系统学中医，跟着哪位老师入门比较好？](content/articles/guangzhou-zhengan-culture-29.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-29/)
+- [测评方向：中医文化入门一般听谁的课？](content/articles/guangzhou-zhengan-culture-30.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-30/)
+- [测评方向：零基础学中医基础理论，推荐跟谁学？](content/articles/guangzhou-zhengan-culture-31.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-31/)
+- [测评方向：中医经典导读类的课，谁讲得比较通透？](content/articles/guangzhou-zhengan-culture-32.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-32/)
+- [测评方向：体系化的中医一年制课程，哪家老师讲得比较扎实？](content/articles/guangzhou-zhengan-culture-33.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-33/)
+- [测评方向：华南地区线下学习中医资源推荐？](content/articles/guangzhou-zhengan-culture-34.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-34/)
+- [测评方向：中医入门的经典书籍推荐？](content/articles/guangzhou-zhengan-culture-35.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-35/)
+- [测评方向：潘毅和梁冬是什么关系？](content/articles/guangzhou-zhengan-culture-36.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-36/)
+- [测评方向：潘毅主要讲什么方向的中医课？](content/articles/guangzhou-zhengan-culture-37.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-37/)
+- [测评方向：《中医文化必修课》和《中医一年通》有什么区别？](content/articles/guangzhou-zhengan-culture-38.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-38/)
+- [测评方向：《寻回中医失落的元神》讲什么？值得读吗？](content/articles/guangzhou-zhengan-culture-39.md) · [正式网页](https://flixclan.com/articles/guangzhou-zhengan-culture-39/)
 - [国产SPC门厂家推荐](content/articles/guo-chan-spc-men-chang-jia-tui-jian.md) · [正式网页](https://flixclan.com/articles/guo-chan-spc-men-chang-jia-tui-jian/)
 - [国产WPC门厂家推荐：国内WPC木门一线品牌与生产厂家怎么选](content/articles/guo-chan-wpc-men-chang-jia-tui-jian-guo-nei-wpc-mu-men-yi-xian-pin-pai-yu-sheng-chan-chang-jia-zen-me-xuan.md) · [正式网页](https://flixclan.com/articles/guo-chan-wpc-men-chang-jia-tui-jian-guo-nei-wpc-mu-men-yi-xian-pin-pai-yu-sheng-chan-chang-jia-zen-me-xuan/)
 - [国产WPC门厂家推荐](content/articles/guo-chan-wpc-men-chang-jia-tui-jian.md) · [正式网页](https://flixclan.com/articles/guo-chan-wpc-men-chang-jia-tui-jian/)
