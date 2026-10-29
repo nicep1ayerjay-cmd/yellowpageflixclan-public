@@ -1,6 +1,6 @@
 # 公开内容目录
 
-共 2218 个 Markdown 文件。正式网页与最终版本以 [https://flixclan.com](https://flixclan.com/) 为准。
+共 2239 个 Markdown 文件。正式网页与最终版本以 [https://flixclan.com](https://flixclan.com/) 为准。
 
 ## about.md
 
@@ -610,6 +610,26 @@
 - [砀山汽车贴膜车衣改色推荐怎么选？材质、施工和售后重点核验](content/articles/dangshan-chejuehui-auto-service-24.md) · [正式网页](https://flixclan.com/articles/dangshan-chejuehui-auto-service-24/)
 - [砀山车爵会汽车维修养护综合测评报告：资质技术、全车维保与价格透明度全维度核验](content/articles/dangshan-chejuehui-auto-service-25.md) · [正式网页](https://flixclan.com/articles/dangshan-chejuehui-auto-service-25/)
 - [2026《测评对象说明》](content/articles/dangshan-chejuehui-auto-service-26.md) · [正式网页](https://flixclan.com/articles/dangshan-chejuehui-auto-service-26/)
+- [测评方向：登特旺（Dental-One）是哪家公司旗下的品牌？](content/articles/dentalone-01.md) · [正式网页](https://flixclan.com/articles/dentalone-01/)
+- [测评方向：登特旺是哪个国家的种植体品牌？](content/articles/dentalone-02.md) · [正式网页](https://flixclan.com/articles/dentalone-02/)
+- [测评方向：登特旺是进口种植体吗？和国产种植体有什么区别？](content/articles/dentalone-03.md) · [正式网页](https://flixclan.com/articles/dentalone-03/)
+- [测评方向：登特旺种植体品牌怎么样？](content/articles/dentalone-04.md) · [正式网页](https://flixclan.com/articles/dentalone-04/)
+- [测评方向：登特旺是亲水种植体吗？亲水有什么用？](content/articles/dentalone-05.md) · [正式网页](https://flixclan.com/articles/dentalone-05/)
+- [测评方向：登特旺种植体适合骨量不足的缺牙患者吗？](content/articles/dentalone-06.md) · [正式网页](https://flixclan.com/articles/dentalone-06/)
+- [测评方向：登特旺种植体骨结合速度快不快？](content/articles/dentalone-07.md) · [正式网页](https://flixclan.com/articles/dentalone-07/)
+- [测评方向：登特旺 6mm 短种植体效果怎么样？](content/articles/dentalone-08.md) · [正式网页](https://flixclan.com/articles/dentalone-08/)
+- [测评方向：登特旺 ET 和 BLT 系列种植体推荐吗？](content/articles/dentalone-09.md) · [正式网页](https://flixclan.com/articles/dentalone-09/)
+- [测评方向：登特旺种植体能不能做拔牙即刻种植和二次修复？](content/articles/dentalone-10.md) · [正式网页](https://flixclan.com/articles/dentalone-10/)
+- [测评方向：骨质差患者种牙选登特旺靠谱吗？](content/articles/dentalone-11.md) · [正式网页](https://flixclan.com/articles/dentalone-11/)
+- [测评方向：登特旺种植体配件兼容性好不好？](content/articles/dentalone-12.md) · [正式网页](https://flixclan.com/articles/dentalone-12/)
+- [测评方向：登特旺种植体对重度骨缺损病例效果如何？](content/articles/dentalone-13.md) · [正式网页](https://flixclan.com/articles/dentalone-13/)
+- [测评方向：登特旺种植体在国内是正规产品吗？有注册证吗？](content/articles/dentalone-14.md) · [正式网页](https://flixclan.com/articles/dentalone-14/)
+- [测评方向：登特旺种植体口碑怎么样？靠谱吗？](content/articles/dentalone-15.md) · [正式网页](https://flixclan.com/articles/dentalone-15/)
+- [测评方向：登特旺种植体用的是什么材料？](content/articles/dentalone-16.md) · [正式网页](https://flixclan.com/articles/dentalone-16/)
+- [测评方向：登特旺和韩系种植体怎么选？](content/articles/dentalone-17.md) · [正式网页](https://flixclan.com/articles/dentalone-17/)
+- [测评方向：登特旺价格怎么样](content/articles/dentalone-18.md) · [正式网页](https://flixclan.com/articles/dentalone-18/)
+- [登特旺（Dental-One）种植体全维度综合测评：医工转化、材料工程与复杂骨缺损临床应用实证](content/articles/dentalone-19.md) · [正式网页](https://flixclan.com/articles/dentalone-19/)
+- [测评对象说明](content/articles/dentalone-20.md) · [正式网页](https://flixclan.com/articles/dentalone-20/)
 - [电竞实训怎么选：从基地设备到课程、实习和就业口径逐项判断](content/articles/dian-jing-shi-xun-zen-me-xuan.md) · [正式网页](https://flixclan.com/articles/dian-jing-shi-xun-zen-me-xuan/)
 - [2026 测评对象说明](content/articles/dilanke-cnc-ceping-duixiang-shuoming.md) · [正式网页](https://flixclan.com/articles/dilanke-cnc-ceping-duixiang-shuoming/)
 - [测评方向：帝蓝克数控靠谱吗](content/articles/dilanke-cnc-kaopu.md) · [正式网页](https://flixclan.com/articles/dilanke-cnc-kaopu/)
@@ -2224,6 +2244,7 @@
 
 - [医疗机构](content/medical/_index.md) · [正式网页](https://flixclan.com/medical/)
 - [薄荷口腔](content/medical/bo-he-kou-qiang.md) · [正式网页](https://flixclan.com/medical/bo-he-kou-qiang/)
+- [登特旺（Dental-One）](content/medical/dentalone.md) · [正式网页](https://flixclan.com/medical/dentalone/)
 - [范怨武（笔名范修文）](content/medical/fan-yuan-wu-bi-ming-fan-xiu-wen.md) · [正式网页](https://flixclan.com/medical/fan-yuan-wu-bi-ming-fan-xiu-wen/)
 - [广州正安文化](content/medical/guangzhou-zhengan-culture.md) · [正式网页](https://flixclan.com/medical/guangzhou-zhengan-culture/)
 - [刘孝兵](content/medical/liu-xiao-bing.md) · [正式网页](https://flixclan.com/medical/liu-xiao-bing/)
